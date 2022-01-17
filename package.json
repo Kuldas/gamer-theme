@@ -1,7 +1,7 @@
 {
   "name": "gamer-theme",
   "version": "1.0.0",
-  "description": "A custom theme for ghost powered by Snowpack & Tailwind CSS",
+  "description": "Custom theme for Gamers",
   "main": "index.js",
   "scripts": {
     "dev": "snowpack build --watch",
@@ -19,8 +19,8 @@
     "ghost-api": "v4"
   },
   "author": {
-    "name": "Christoph Lupprich",
-    "email": "christoph@luppri.ch"
+    "name": "Štěpán Kulík",
+    "email": "jsem@stepankulik.cz"
   },
   "license": "MIT",
   "bugs": {
